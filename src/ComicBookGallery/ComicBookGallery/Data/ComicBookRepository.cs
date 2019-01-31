@@ -23,7 +23,8 @@ namespace ComicBookGallery.Data
                     new Artists() { Name = "Edgar Delgado", Role = "Colors"},
                     new Artists() { Name = "Chris Eliopoulos", Role = "Letters"},
                 },
-                Favorite = false
+                Favorite = false,
+                id = 1,
             },
         new ComicBook()
     {
@@ -38,7 +39,8 @@ namespace ComicBookGallery.Data
             new Artists() { Name = "Muntsa Vicente", Role = "Colors" },
             new Artists() { Name = "Joe Caramagna", Role = "Letters" }
         },
-        Favorite = false
+        Favorite = false,
+        id = 2,
     },
     new ComicBook()
     {
@@ -52,7 +54,8 @@ namespace ComicBookGallery.Data
             new Artists() { Name = "Jeff Smith", Role = "Inks" },
             new Artists() { Name = "Jeff Smith", Role = "Letters" }
         },
-        Favorite = false
+        Favorite = false,
+        id = 3,
     }
         };
         public ComicBook GetComicBook(int id)
