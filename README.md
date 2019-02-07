@@ -1,6 +1,6 @@
 # ASP.NET MVC Comic Book Gallery
 
-This a project built following a course on <a href="https://teamtreehouse.com">Team Treehouse</a>. This course helps teach the basics of ASP.NET MVC. While learning the basics we build a comic book gallery website using Visual Studio Commmunity. We learn how to create a new project, add controllers and views, model data, and create local repositories. 
+This project was built using a 239 minute course on <a href="https://teamtreehouse.com">Team Treehouse</a>. In this course I used ASP.NET MVC to build a dynamic website. The course taught the bascis of ASP.NET MVC while building a comic book gallery. Along the way I created a new project in Visual Studio, added controllers and views, model data, and created repositories. 
 
 <h3>Demo Link:</h3>http://comicbookgallery.dawsonexample.com/
 
